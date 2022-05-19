@@ -9,10 +9,13 @@ ON
 
 1.**Background**:
 	The main goal of the research is to create a prediction model using Machine Learning to predict the rental costs of houses across the United States based on numerous variables defining the houses' attributes. This dataset contains several features that characterize the entire nature of the house and its dynamics, as well as ‘Price’ which is to be predicted.
+	
 2.**Motivation**:
 	While renting a house we consider different factors such as location, size, number of rooms, etc. that play an important role in making the decision to rent it. This decision can sometimes be difficult to make with the rising number of options. This project will help both the landlords to set an acceptable rent on their properties and the tenants to rent the property on the right price. This prediction technique will also assist investors in making informed investment selections to optimize their profits. 
+	
 3.**Goal**:
 	We want to build a model that can inform people what a fair rent for a specific listing (home) in a specific location with amenities would cost at any given time. Using various types of models, we want to reduce the disparity between the real rent and the rent anticipated. Various sorts of machine learning techniques will be used to assess the performance of our model.
+	
 
 **Methodology**:
 
